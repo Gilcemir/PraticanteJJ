@@ -13,6 +13,8 @@ namespace Main_Method
 
 
             ninja.print();
+            ninja.Categoria();
+
         }
 
     }

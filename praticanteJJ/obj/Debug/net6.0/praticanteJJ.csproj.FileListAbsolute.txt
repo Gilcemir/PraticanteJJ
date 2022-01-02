@@ -1,0 +1,15 @@
+C:\workspace\repos\praticanteJJ\praticanteJJ\bin\Debug\net6.0\praticanteJJ.exe
+C:\workspace\repos\praticanteJJ\praticanteJJ\bin\Debug\net6.0\praticanteJJ.deps.json
+C:\workspace\repos\praticanteJJ\praticanteJJ\bin\Debug\net6.0\praticanteJJ.runtimeconfig.json
+C:\workspace\repos\praticanteJJ\praticanteJJ\bin\Debug\net6.0\praticanteJJ.dll
+C:\workspace\repos\praticanteJJ\praticanteJJ\bin\Debug\net6.0\ref\praticanteJJ.dll
+C:\workspace\repos\praticanteJJ\praticanteJJ\bin\Debug\net6.0\praticanteJJ.pdb
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.csproj.AssemblyReference.cache
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.AssemblyInfoInputs.cache
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.AssemblyInfo.cs
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.csproj.CoreCompileInputs.cache
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.dll
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\ref\praticanteJJ.dll
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.pdb
+C:\workspace\repos\praticanteJJ\praticanteJJ\obj\Debug\net6.0\praticanteJJ.genruntimeconfig.cache
